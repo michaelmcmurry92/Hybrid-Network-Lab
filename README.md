@@ -6,8 +6,10 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Focus](https://img.shields.io/badge/Focus-Network%20Security-1f4e79)
-WATCH ME WALK THROUGH THIS HERE: https://www.loom.com/share/8e351ce5444f4061ab56fd86aad1e685
+
 ---
+
+WATCH ME WALK THROUGH THIS HERE: https://www.loom.com/share/8e351ce5444f4061ab56fd86aad1e685
 
 ## Table of Contents
 
